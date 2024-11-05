@@ -1,4 +1,4 @@
-# 3D-Imaging-System
+# 3D-Imaging-System (대학 과제)
 Correlation between Decryption Image of Double Random Phase Encryption and Reference Images with various filters(del2, edge, and Fog removal filter)
 
 ### 🧑🏻‍💻 Tech
